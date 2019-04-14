@@ -1,0 +1,10 @@
+{
+  "main": "./dist/index.js",
+  "files": [
+    "./dist/**/*"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.4.3"
+  }
+}
